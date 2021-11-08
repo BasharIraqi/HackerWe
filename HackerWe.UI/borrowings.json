@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "97aff6c5-18b8-4675-9e68-2088260ceab4",
+    "BorowingDate": "2021-11-04T21:15:55.7899785+02:00",
+    "DueReturningDate": "2021-11-18T21:15:55.7899785+02:00",
+    "ReturningDate": "0001-01-01T00:00:00",
+    "BookId": 0,
+    "Book": {
+      "Id": 653,
+      "ISBN": "00000000-0000-0000-0000-000000000000",
+      "Author": "Gady Halper",
+      "Name": "My New Car",
+      "NumberOfPages": 444,
+      "NumberOfCopies": 17,
+      "NumberOfBorrowedOut": 13,
+      "DatePublished": "2021-10-21T00:00:00"
+    },
+    "ClientId": 0,
+    "Client": {
+      "Id": 1,
+      "IdentityNumber": "00000000-0000-0000-0000-000000000000",
+      "FirstName": "Jeff",
+      "LastName": "Bassos",
+      "FullName": "Jeff Bassos",
+      "Email": null,
+      "PhoneNumber": "054-6589874"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "IdentityNumber": "00000000-0000-0000-0000-000000000000",
+    "FirstName": "Orian",
+    "LastName": "Markovitz",
+    "PhoneNumber": "054-6589874"
+  },
+  {
+    "Id": 2,
+    "IdentityNumber": "00000000-0000-0000-0000-000000000000",
+    "FirstName": "Mark",
+    "LastName": "Tzukerberg",
+    "PhoneNumber": "054-6589874"
+  },
+  {
+    "Id": 1,
+    "IdentityNumber": "00000000-0000-0000-0000-000000000000",
+    "FirstName": "Stive",
+    "LastName": "Jhones",
+    "PhoneNumber": "054-6589874"
+  },
+  {
+    "Id": 1,
+    "IdentityNumber": "00000000-0000-0000-0000-000000000000",
+    "FirstName": "Jeff",
+    "LastName": "Bassos",
+    "PhoneNumber": "054-6589874"
+  }
+]
